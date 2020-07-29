@@ -94,8 +94,8 @@ I am pursuing B.Tech at SRM Institute Of Science and Technology, majoring
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Shreekar-Kolanu-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security&theme=tokyonight)](https://github.com/Skillz619/Shreekar-Kolanu-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight)](https://github.com/Skillz619/IBM-Watson-AI-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Bg-Font-colour-changer-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Bg-Font-colour-changer-Shreekar-Kolanu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=uno&theme=tokyonight)](https://github.com/Skillz619/uno)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Food-Security-Hotspots-Locator-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Food-Security-Hotspots-Locator-Shreekar-Kolanu)
+Food-Security-Hotspots-Locator-Shreekar-Kolanu
 
 
 ![Shreekar's github stats](https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight)
