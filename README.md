@@ -49,7 +49,7 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 <a href="https://www.instagram.com/inv0ker_619/">
 <img align="left" alt="Shreekar Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />
 <a href="mailto:shreekarkolanu@gmail.com?Subject=Hello%20world!">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+<img align="left" alt="ShreekarKolanuInstagram" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
 </a>
 
 
@@ -94,7 +94,7 @@ I am pursuing B.Tech at SRM Institute Of Science and Technology, majoring
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Shreekar-Kolanu-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security&theme=tokyonight)](https://github.com/Skillz619/Shreekar-Kolanu-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight)](https://github.com/Skillz619/IBM-Watson-AI-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Bg-Font-colour-changer-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Bg-Font-colour-changer-Shreekar-Kolanu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Food-Security-Hotspots-Locator-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Food-Security-Hotspots-Locator-Shreekar-Kolanu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Food-Security-Hotspot-Locators-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Food-Security-Hotspot-Locators-Shreekar-Kolanu)
 Food-Security-Hotspots-Locator-Shreekar-Kolanu
 
 
