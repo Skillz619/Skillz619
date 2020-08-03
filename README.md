@@ -59,7 +59,7 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 **Introduction:**
 
 I am pursuing B.Tech at SRM Institute Of Science and Technology, majoring
-            in Software Engineering. I am a fast-learner, Entry level position in Cloud Services and Data analytics/Testing apps with a growth oriented organizations. I love sports,
+            in Software Engineering. I am a fast-learner, Entry level position in Artificial Intelligence, Cloud Services and Data analytics/Testing apps with a growth oriented organizations. I love sports,
             particularly football & squash. I also love to experiment
             with new technologies and I am open to corporate opportuinites!
 
