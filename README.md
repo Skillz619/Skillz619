@@ -54,7 +54,9 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
  <a href="https://dev.to/skillz619">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shreekar Kolanu's DEV Profile" width="22px">
 </a>
-
+<a href="https://dev.to/skillz619">
+  <i class="fab fa-dev" title="skillz619's DEV Profile"></i>
+</a>
 
 <br >
 <br />
