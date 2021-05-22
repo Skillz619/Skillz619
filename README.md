@@ -1,5 +1,5 @@
 # Shreekar-Kolanu
-### N E V E R  S A Y  N E V E R M O R E 👋  
+### N E V E R | S A Y | N E V E R M O R E 👋  
 
 <!--
 
