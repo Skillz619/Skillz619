@@ -44,7 +44,7 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 <img align="left" alt="Shreekar Kolanu  LinkdeIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://github.com/Skillz619">
-<img align="left" alt="Github " width="22px" src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
+<img align="left" alt="Github " width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
 </a>
 <a href="https://www.instagram.com/inv0ker_619/">
 <img align="left" alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
