@@ -44,13 +44,13 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 <img align="left" alt="Shreekar Kolanu  LinkdeIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://github.com/Skillz619">
-<img align="left" alt="Github " width="22px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
+<img align="left" alt="Github " width="22px" src="https://img.icons8.com/fluency-systems-filled/48/000000/github.png"/>
 </a>
 <a href="https://www.instagram.com/inv0ker_619/">
 <img align="left" alt="Shreekar Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />
 </a>
 <a href="mailto:shreekarkolanu@gmail.com?Subject=Hello%20world!">
-<img align="left" alt="ShreekarKolanuInstagram" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+<img align="left" alt="ShreekarKolanuInstagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
  <a href="https://dev.to/skillz619">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shreekar Kolanu's DEV Profile" width="22px">
