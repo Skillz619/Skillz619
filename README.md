@@ -38,7 +38,7 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 
 
 <a href="https://twitter.com/ShreekarKolanu">
-<img align="left" alt=" | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />
+<img align="left" alt=" | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 </a>
 <a href="https://www.linkedin.com/in/shreekar-kolanu/">
 <img align="left" alt="Shreekar Kolanu  LinkdeIN" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
