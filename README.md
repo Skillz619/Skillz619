@@ -19,7 +19,7 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 <p align="center">
 
  
- <img src="https://images.squarespace-cdn.com/content/v1/528ea72ee4b0dc2189b7f3c6/1516730470979-XFAGCH86DSBOECA9QG5G/ke17ZwdGBToddI8pDm48kDVPvM4nRHbfVjqWjl1vx1N7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0geeCvn1f36QDdcifB7yxGimaYHJLysS-UarAV6jpuUUllESqTS9ZcokPRLzh-Gi0Q/RedRocks-cropped.jpg" alt="Hello world">
+ <img src="https://github.com/Skillz619/Skillz619/blob/master/RedRocks-Shreek.jpeg" alt="Hello world">
 
  
  <h2 align="center">Welcome To My Repository</h2>
