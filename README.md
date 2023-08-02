@@ -93,11 +93,11 @@ I am pursuing B.Tech at SRM Institute Of Science and Technology. I am a fast-lea
 
 </p>
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=AWS-Jenkins-Sonarqube-Docker&theme=tokyonight)]([https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu](https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-&theme=tokyonight)]([https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu]([https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker](https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-)))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Shreekar-Kolanu-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security&theme=tokyonight)](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight)](https://github.com/Skillz619/IBM-Watson-AI-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Bg-Font-colour-changer-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Bg-Font-colour-changer-Shreekar-Kolanu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Food-Security-Hotspot-Locators-Shreekar-Kolanu&theme=tokyonight)](https://github.com/Skillz619/Food-Security-Hotspot-Locators-Shreekar-Kolanu)
+
 
 
 
