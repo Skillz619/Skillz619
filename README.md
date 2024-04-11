@@ -62,9 +62,22 @@ https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_2020
 
 **Introduction:**
 
-I am pursuing my Masters of Science in San Jose State University, My previous experience inculdes working with GE as a Devops Engineer and with PwC as a Senior analyst. I love sports,
-            particularly football & squash. I also love to experiment
-            with new technologies and I am open to corporate opportuinites!
+I am pursuing my Masters of Science in Software Engineering at San Jose State University B.Tech at SRM Institute Of Science and Technology. I have previosuly worked wit GE HealthCare primarily in the Platform and Devops team. I have also worked PwC as a Senior Analyst in their Cloud security team.
+
+TECHNICAL SKILLS
+Scripting: Shell, Python					
+Web Development: Angular, HTML, Typescript, CSS
+Cloud Platform: AWS Cloud, GCP				
+Database Technologies:  MySQL, MS SQL
+Networking: OSI, DNS, Load Balancing, Firewall		
+Configuration Tools: Jenkins, Cruise control
+OS: Windows, Linux					
+Code Repository: GitHub, GitLab, Perforce
+Containerization: Docker, Kubernetes			
+Monitoring: Grafana, CloudWatch
+Configuration Management: Ansible			
+Infrastructure Provisioning:  Terraform, AWS Cloud formation
+
 
 
 ## My GitHub contributions as a Game of Life
