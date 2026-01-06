@@ -215,22 +215,62 @@ AI-powered application leveraging IBM Watson services and machine learning
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[PwC<br/>Cloud Security Engineer] -->|Career Growth| B[GE HealthCare<br/>Platform/DevOps Engineer]
-    B -->|Current| C[SJSU<br/>MS Software Engineering]
-    C -->|Future| D[Senior Platform Engineer]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#bfb,stroke:#333,stroke-width:2px
-    style D fill:#fbb,stroke:#333,stroke-width:2px
-```
+<table>
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Duration</th>
+<th>Key Highlights</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/GE_HealthCare-0969DA?style=for-the-badge&logo=ge&logoColor=white"/></td>
+<td><strong>Platform/DevOps Engineer</strong></td>
+<td>📅 Current</td>
+<td>
+• Infrastructure Automation with Terraform<br/>
+• Kubernetes Cluster Management<br/>
+• CI/CD Pipeline Development<br/>
+• Cloud Cost Optimization
+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/PwC-FF6600?style=for-the-badge&logo=pwc&logoColor=white"/></td>
+<td><strong>Cloud Security Engineer</strong></td>
+<td>📅 2022 - 2023</td>
+<td>
+• AWS Security Architecture<br/>
+• Compliance Framework Implementation<br/>
+• IAM & Access Control Solutions<br/>
+• Security Automation & Monitoring
+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Amgen-0C2340?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"/></td>
+<td><strong>DevOps Intern</strong></td>
+<td>📅 Summer 2022</td>
+<td>
+• Automated Deployment Workflows<br/>
+• Container Orchestration with Docker<br/>
+• Monitoring & Logging Solutions<br/>
+• Infrastructure as Code Development
+</td>
+</tr>
+</tbody>
+</table>
 
-| Company | Role | Duration | Key Achievements |
-|---------|------|----------|------------------|
-| 🏥 **GE HealthCare** | Platform/DevOps Engineer | Current | Infrastructure Automation • Kubernetes • CI/CD Pipelines |
-| 💼 **PwC** | Cloud Security Engineer | Previous | AWS Security • Compliance Frameworks • IAM Solutions |
+</div>
+
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Timeline | Focus |
+|:------:|:-----------:|:--------:|:-----:|
+| 🎓 **MS in Software Engineering** | San José State University | 2023 - Present | Platform Engineering, Cloud Architecture, Distributed Systems |
+| 🎓 **Bachelor's Degree** | Previous Institution | Completed | Computer Science & Engineering |
 
 </div>
 
