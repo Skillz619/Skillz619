@@ -227,52 +227,55 @@ AI-powered application leveraging IBM Watson services and machine learning
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td><img src="https://img.shields.io/badge/GE_HealthCare-0969DA?style=for-the-badge&logo=ge&logoColor=white"/></td>
-<td><strong>Platform/DevOps Engineer</strong></td>
-<td>📅 Current</td>
+<td><strong>Software Engineer / Product Engineer (DevOps)</strong><br/><sub>Enterprise Imaging (VNA) – Edison™ Datalogue™ • Enterprise Archive (EA)</sub></td>
+<td>📅 Previously</td>
 <td>
-• Infrastructure Automation with Terraform<br/>
-• Kubernetes Cluster Management<br/>
-• CI/CD Pipeline Development<br/>
-• Cloud Cost Optimization
+• Migrated enterprise imaging workloads/data flows to AWS (migration + automation)<br/>
+• Built/optimized CI/CD automation and quality gates (SonarQube integration)<br/>
+• Implemented Terraform-based infrastructure provisioning and repeatable environments<br/>
+• Delivered UI enhancements and platform improvements supporting product teams
 </td>
 </tr>
+
 <tr>
 <td><img src="https://img.shields.io/badge/PwC-FF6600?style=for-the-badge&logo=pwc&logoColor=white"/></td>
-<td><strong>Cloud Security Engineer</strong></td>
-<td>📅 2022 - 2023</td>
+<td><strong>Senior Analyst (Cloud Security)</strong></td>
+<td>📅 Previously</td>
 <td>
-• AWS Security Architecture<br/>
-• Compliance Framework Implementation<br/>
-• IAM & Access Control Solutions<br/>
-• Security Automation & Monitoring
+• Implemented cloud security controls and compliance-aligned guardrails<br/>
+• Worked with IAM, policy automation, and CI/CD security checks<br/>
+• Supported secure cloud delivery and operational security workflows
 </td>
 </tr>
+
 <tr>
-<td><img src="https://img.shields.io/badge/Amgen-0C2340?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white"/></td>
-<td><strong>DevOps Intern</strong></td>
-<td>📅 Summer 2022</td>
+<td><img src="https://img.shields.io/badge/Amgen-0C2340?style=for-the-badge&logoColor=white"/></td>
+<td><strong>DevOps / Platform Engineering Intern</strong><br/><sub>Platform Systems Engineering • AI Workbench (AWS EKS)</sub></td>
+<td>📅 Internship</td>
 <td>
-• Automated Deployment Workflows<br/>
-• Container Orchestration with Docker<br/>
-• Monitoring & Logging Solutions<br/>
-• Infrastructure as Code Development
+• Supported AWS EKS-based platform workflows for AI/ML enablement<br/>
+• Automated operational tasks and improved reliability/observability foundations<br/>
+• Contributed to platform tooling used by internal engineering teams
 </td>
 </tr>
+
 </tbody>
 </table>
 
 </div>
 
+
 ### 🎓 Education
 
 <div align="center">
 
-| Degree | Institution | Timeline | Focus |
+| Degree | Institution | Timeline | Notes |
 |:------:|:-----------:|:--------:|:-----:|
-| 🎓 **MS in Software Engineering** | San José State University | 2023 - Present | Platform Engineering, Cloud Architecture, Distributed Systems |
-| 🎓 **Bachelor's Degree** | Previous Institution | Completed | Computer Science & Engineering |
+| 🎓 **M.S. Software Engineering** | San José State University | **Jan 2024 – Dec 2025** | Cloud Computing • Distributed Systems • Platform Engineering |
+| 🎓 **B.Tech Software Engineering** | SRM Institute of Science and Technology | **Graduated May 2021** | Foundations in Software Engineering & Systems |
 
 </div>
 
