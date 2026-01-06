@@ -80,32 +80,32 @@ motto: "Never Say Never More 🎯"
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Skillz619&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+<a href="https://github.com/Skillz619">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
 </div>
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Skillz619&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skillz619&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 GitHub Profile Stats
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skillz619&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skillz619&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skillz619&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skillz619&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skillz619&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skillz619&theme=tokyonight&utcOffset=8)
 
 </div>
 
@@ -115,17 +115,60 @@ motto: "Never Say Never More 🎯"
 
 <div align="center">
 
-[![AWS Jenkins SonarQube Docker](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=AWS-Jenkins-Sonarqube-Docker&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker)
-[![AWS Lambda Compliance](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-)
+<table>
+<tr>
+<td width="50%">
 
-[![IBM Call for Code](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Call-for-Code-Challenge-shreekar-kolanu&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu)
-[![IBM Watson AI](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/Skillz619/IBM-Watson-AI-Project)
+### 🔧 AWS Jenkins SonarQube Docker
+Complete CI/CD pipeline setup with Jenkins, SonarQube, and Docker on AWS infrastructure
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker)
+
+</td>
+<td width="50%">
+
+### ☁️ AWS Lambda Compliance Manager
+Python-based AWS Lambda functions for automated cloud compliance management
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌍 IBM Call for Code Challenge
+Innovative solution for global challenges using IBM Cloud technologies
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu)
+
+</td>
+<td width="50%">
+
+### 🤖 IBM Watson AI Project
+AI-powered application leveraging IBM Watson services and machine learning
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/IBM-Watson-AI-Project)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Shreekar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skillz619&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -139,11 +182,24 @@ motto: "Never Say Never More 🎯"
 
 ---
 
+## 💼 Experience Highlights
+
+<div align="center">
+
+| Company | Role | Focus Areas |
+|---------|------|-------------|
+| 🏥 **GE HealthCare** | Platform/DevOps Engineer | Infrastructure Automation, CI/CD, Kubernetes |
+| 💼 **PwC** | Cloud Security Engineer | AWS Security, Compliance, IAM |
+
+</div>
+
+---
+
 ## 💡 Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -161,6 +217,7 @@ I'm always excited to connect with fellow engineers working on **Platform Engine
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreekar-kolanu/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreekarkolanu@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShreekarKolanu)
 
 </div>
 
@@ -170,6 +227,8 @@ I'm always excited to connect with fellow engineers working on **Platform Engine
 
 ### ⚡ "The best way to predict the future is to build it." ⚡
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+**Thanks for visiting! Happy coding! 🚀**
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
