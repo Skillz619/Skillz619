@@ -79,33 +79,54 @@ motto: "Never Say Never More 🎯"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
+<!-- Using reliable github-stats alternative -->
 <a href="https://github.com/Skillz619">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skillz619&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- Using alternative reliable streak service -->
+<img src="https://nirzak-streak-stats.vercel.app?user=Skillz619&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=200" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Profile Stats
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skillz619&theme=tokyonight)
+| 🎯 **Metric** | 📈 **Stats** |
+|:---:|:---:|
+| **Total Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Skillz619&label=Repos&query=$.public_repos&color=blue&style=for-the-badge) |
+| **Total Stars** | ![Stars](https://img.shields.io/github/stars/Skillz619?style=for-the-badge&color=yellow) |
+| **Total Forks** | ![Forks](https://img.shields.io/github/forks/Skillz619/Skillz619?style=for-the-badge&color=orange) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/Skillz619?style=for-the-badge&color=green) |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=Skillz619&style=for-the-badge&color=blueviolet) |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skillz619&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skillz619&theme=tokyonight)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skillz619&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skillz619&theme=tokyonight&utcOffset=8)
+---
+
+## 📈 Detailed Contribution Stats
+
+<div align="center">
+
+<!-- Profile Summary Cards - Very Reliable -->
+![](https://raw.githubusercontent.com/Skillz619/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Skillz619/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</div>
+
+<div align="center">
+
+<!-- Activity Graph with full history -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skillz619&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Since%20Account%20Creation)
 
 </div>
 
@@ -122,7 +143,9 @@ motto: "Never Say Never More 🎯"
 ### 🔧 AWS Jenkins SonarQube Docker
 Complete CI/CD pipeline setup with Jenkins, SonarQube, and Docker on AWS infrastructure
 
+**Tech:** AWS • Jenkins • Docker • SonarQube  
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker)
+![Stars](https://img.shields.io/github/stars/Skillz619/AWS-Jenkins-Sonarqube-Docker?style=social)
 
 </td>
 <td width="50%">
@@ -130,7 +153,9 @@ Complete CI/CD pipeline setup with Jenkins, SonarQube, and Docker on AWS infrast
 ### ☁️ AWS Lambda Compliance Manager
 Python-based AWS Lambda functions for automated cloud compliance management
 
+**Tech:** Python • AWS Lambda • CloudWatch  
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-)
+![Stars](https://img.shields.io/github/stars/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-?style=social)
 
 </td>
 </tr>
@@ -140,7 +165,9 @@ Python-based AWS Lambda functions for automated cloud compliance management
 ### 🌍 IBM Call for Code Challenge
 Innovative solution for global challenges using IBM Cloud technologies
 
+**Tech:** IBM Cloud • Watson • Node.js  
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu)
+![Stars](https://img.shields.io/github/stars/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu?style=social)
 
 </td>
 <td width="50%">
@@ -148,7 +175,9 @@ Innovative solution for global challenges using IBM Cloud technologies
 ### 🤖 IBM Watson AI Project
 AI-powered application leveraging IBM Watson services and machine learning
 
+**Tech:** IBM Watson • Machine Learning • Python  
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Skillz619/IBM-Watson-AI-Project)
+![Stars](https://img.shields.io/github/stars/Skillz619/IBM-Watson-AI-Project?style=social)
 
 </td>
 </tr>
@@ -158,11 +187,11 @@ AI-powered application leveraging IBM Watson services and machine learning
 
 ---
 
-## 📈 Contribution Activity
+## 💻 Coding Activity
 
 <div align="center">
 
-[![Shreekar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skillz619&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--START_SECTION:wkatime-->
 
 </div>
 
@@ -182,14 +211,26 @@ AI-powered application leveraging IBM Watson services and machine learning
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Professional Experience
 
 <div align="center">
 
-| Company | Role | Focus Areas |
-|---------|------|-------------|
-| 🏥 **GE HealthCare** | Platform/DevOps Engineer | Infrastructure Automation, CI/CD, Kubernetes |
-| 💼 **PwC** | Cloud Security Engineer | AWS Security, Compliance, IAM |
+```mermaid
+graph LR
+    A[PwC<br/>Cloud Security Engineer] -->|Career Growth| B[GE HealthCare<br/>Platform/DevOps Engineer]
+    B -->|Current| C[SJSU<br/>MS Software Engineering]
+    C -->|Future| D[Senior Platform Engineer]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+    style D fill:#fbb,stroke:#333,stroke-width:2px
+```
+
+| Company | Role | Duration | Key Achievements |
+|---------|------|----------|------------------|
+| 🏥 **GE HealthCare** | Platform/DevOps Engineer | Current | Infrastructure Automation • Kubernetes • CI/CD Pipelines |
+| 💼 **PwC** | Cloud Security Engineer | Previous | AWS Security • Compliance Frameworks • IAM Solutions |
 
 </div>
 
@@ -218,6 +259,7 @@ I'm always excited to connect with fellow engineers working on **Platform Engine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreekar-kolanu/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreekarkolanu@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShreekarKolanu)
+[![Instagram](https://img.shields.io/badge/Instagram-@inv0ker__619-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inv0ker_619/)
 
 </div>
 
@@ -231,4 +273,10 @@ I'm always excited to connect with fellow engineers working on **Platform Engine
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 </div>
