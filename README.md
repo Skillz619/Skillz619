@@ -1,129 +1,124 @@
-# Shreekar-Kolanu
-### N E V E R | S A Y | N E V E R M O R E 👋  
+<!-- =========================
+  Shreekar Kolanu — Profile README
+  Repo: Skillz619/Skillz619
+========================= -->
 
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
-https://github.com/Skillz619/Shreekar-Portfolio/blob/master/public/img/SAVE_20200729_210248.jpg
--->
-<p align="center">
-
- 
- <img src="https://github.com/Skillz619/Skillz619/blob/master/RedRocks-Shreek.jpeg" alt="Hello world">
-
- 
- <h2 align="center">Welcome To My Repository</h2>
- <p align="center"><b>Shreekar Kolanu</b> </p>
-</p>
-
-
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Skillz619/count.svg" />
-</p>
-
-
-
-<a href="https://twitter.com/ShreekarKolanu">
-<img align="left" alt=" | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
-</a>
-<a href="https://www.linkedin.com/in/shreekar-kolanu/">
-<img align="left" alt="Shreekar Kolanu  LinkdeIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://github.com/Skillz619">
-<img align="left" alt="Github " width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
-</a>
-<a href="https://www.instagram.com/inv0ker_619/">
-<img align="left" alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
-<a href="mailto:shreekarkolanu@gmail.com?Subject=Hello%20world!">
-<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-</a>
- <a href="https://dev.to/skillz619">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shreekar Kolanu's DEV Profile" width="22px">
-</a>
-
-
-<br >
-<br />
-
-**Introduction:**
-
-I am pursuing my Masters of Science in Software Engineering at San Jose State University and completed my B.Tech at SRM Institute Of Science and Technology. I have previosuly worked wit GE HealthCare primarily in the Platform and Devops team. I have also worked PwC as a Senior Analyst in their Cloud security team.
-
-TECHNICAL SKILLS
-Scripting: Shell, Python			
-		
-Web Development: React, Angular, HTML, Typescript, CSS
-
-Cloud Platform: AWS Cloud, GCP				
-
-Database Technologies:  MySQL, MS SQL
-
-Networking: OSI, DNS, Load Balancing, Firewall		
-
-Configuration Tools: Jenkins, Cruise control
-
-OS: Windows, Linux					
-
-Code Repository: GitHub, GitLab, Perforce
-
-Containerization: Docker, Kubernetes			
-
-Monitoring: Grafana, CloudWatch
-
-Configuration Management: Ansible		
-	
-Infrastructure Provisioning:  Terraform, AWS Cloud formation
-
-
-
-## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/Skillz619.gif)](https://github4life.herokuapp.com/Skillz619)
-
-
-
-## Connect with Me 🤝🏻
-
-
-
+<h1 align="center">Shreekar Kolanu</h1>
+<h3 align="center">N E V E R &nbsp; | &nbsp; S A Y &nbsp; | &nbsp; N E V E R &nbsp; M O R E 👋</h3>
 
 <p align="center">
-
- 
- <img src="https://thumbs.gfycat.com/ImaginativeMintyLabradorretriever-size_restricted.gif" alt="Hello world">
-
-
-
-
-
-
-<p align="center">
- 
- <h2>     </h2>
-
+  <img src="https://raw.githubusercontent.com/Skillz619/Skillz619/master/RedRocks-Shreek.jpeg" alt="Shreekar banner" width="800" />
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=AWS-Jenkins-Sonarqube-Docker&theme=tokyonight)]([https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu](https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-&theme=tokyonight)]([https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu]([https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker](https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-)))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Shreekar-Kolanu-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security&theme=tokyonight)](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight)](https://github.com/Skillz619/IBM-Watson-AI-Project)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreekar-kolanu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shreekar%20Kolanu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ShreekarKolanu">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@ShreekarKolanu-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/Skillz619">
+    <img src="https://img.shields.io/badge/GitHub-Skillz619-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/inv0ker_619/">
+    <img src="https://img.shields.io/badge/Instagram-@inv0ker__619-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:shreekarkolanu@gmail.com?subject=Hello%20Shreekar!">
+    <img src="https://img.shields.io/badge/Email-shreekarkolanu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dev.to/skillz619">
+    <img src="https://img.shields.io/badge/DEV.to-skillz619-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Skillz619&style=flat-square&color=blue" alt="profile views" />
+</p>
 
+---
 
+## 👨‍💻 About Me
 
-![Shreekar's github stats](https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&theme=tokyonight)
+- 🎓 MS in Software Engineering @ **San José State University**
+- ☁️ DevOps / Platform / Cloud Engineering focus (AWS, Kubernetes, IaC, CI/CD)
+- 🏢 Previously: **GE HealthCare (Platform/DevOps)** • **PwC (Cloud Security)**
+- 🧠 I like building **reliable infrastructure**, **automation**, and **observability tooling**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Scripting**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
+**Observability**
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=AWS-Jenkins-Sonarqube-Docker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Call-for-Code-Challenge-shreekar-kolanu&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Skillz619/IBM-Watson-AI-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Skillz619&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (replaces expired “Game of Life”)
+
+> This one requires a GitHub Action to generate the SVG (super reliable once set).
+> After you set it up, this will display automatically:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skillz619/Skillz619/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re working on **Platform Engineering / DevOps / Cloud**, I’d love to connect and collaborate.
