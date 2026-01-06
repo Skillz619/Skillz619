@@ -77,19 +77,19 @@
 
 <p align="center">
   <a href="https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=AWS-Jenkins-Sonarqube-Docker&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=AWS-Jenkins-Sonarqube-Docker&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Skillz619/Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=Manage-compliance-on-AWS-cloud-using-Python-AWS-Lambda-&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Call-for-Code-Challenge-shreekar-kolanu&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Call-for-Code-Challenge-shreekar-kolanu&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Skillz619/IBM-Watson-AI-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=IBM-Watson-AI-Project&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -98,23 +98,24 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Skillz619&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Skillz619&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (replaces expired “Game of Life”)
-
-> This one requires a GitHub Action to generate the SVG (super reliable once set).
-> After you set it up, this will display automatically:
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Skillz619/Skillz619/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skillz619/Skillz619/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skillz619/Skillz619/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Skillz619/Skillz619/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
