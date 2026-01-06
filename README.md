@@ -78,20 +78,19 @@ motto: "Never Say Never More 🎯"
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<!-- Using reliable github-stats alternative -->
-<a href="https://github.com/Skillz619">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Skillz619&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-</a>
+<!-- Stable streak card (currently working) -->
+<img src="https://nirzak-streak-stats.vercel.app?user=Skillz619&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=200" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<!-- Using alternative reliable streak service -->
-<img src="https://nirzak-streak-stats.vercel.app?user=Skillz619&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=200" alt="GitHub Streak"/>
+<!-- Self-generated metrics SVG (no external downtime once workflow runs) -->
+<img src="https://raw.githubusercontent.com/Skillz619/Skillz619/main/assets/github-metrics.svg" alt="GitHub Metrics"/>
 
 </div>
 
