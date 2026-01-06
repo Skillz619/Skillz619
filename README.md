@@ -96,6 +96,13 @@ motto: "Never Say Never More 🎯"
 </div>
 
 ---
+## 📊 GitHub Metrics (PRs • Reviews • Code Changes)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skillz619/Skillz619/main/assets/github-metrics.svg" />
+</p>
+
+
 
 ## 🏆 GitHub Achievements
 
